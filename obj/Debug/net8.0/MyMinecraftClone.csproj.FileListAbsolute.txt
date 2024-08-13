@@ -1,0 +1,5 @@
+C:\Users\Marle\Music\Minecraft_c#\MyMinecraftClone\obj\Debug\net8.0\MyMinecraftClone.csproj.AssemblyReference.cache
+C:\Users\Marle\Music\Minecraft_c#\MyMinecraftClone\obj\Debug\net8.0\MyMinecraftClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marle\Music\Minecraft_c#\MyMinecraftClone\obj\Debug\net8.0\MyMinecraftClone.AssemblyInfoInputs.cache
+C:\Users\Marle\Music\Minecraft_c#\MyMinecraftClone\obj\Debug\net8.0\MyMinecraftClone.AssemblyInfo.cs
+C:\Users\Marle\Music\Minecraft_c#\MyMinecraftClone\obj\Debug\net8.0\MyMinecraftClone.csproj.CoreCompileInputs.cache
